@@ -1,0 +1,1358 @@
+[
+  {
+    "country": "Afghanistan",
+    "countryCode": "AF",
+    "internationalCode": [93],
+    "greeting": "Salaam"
+  },
+  {
+    "country": "Albania",
+    "countryCode": "AL",
+    "internationalCode": [355],
+    "greeting": "Përshëndetje"
+  },
+  {
+    "country": "Algeria",
+    "countryCode": "DZ",
+    "internationalCode": [213],
+    "greeting": "Salam"
+  },
+  {
+    "country": "American Samoa",
+    "countryCode": "AS",
+    "internationalCode": [1684],
+    "greeting": "Talofa"
+  },
+  {
+    "country": "Andorra",
+    "countryCode": "AD",
+    "internationalCode": [376],
+    "greeting": "Hola"
+  },
+  {
+    "country": "Angola",
+    "countryCode": "AO",
+    "internationalCode": [244],
+    "greeting": "Olá"
+  },
+  {
+    "country": "Anguilla",
+    "countryCode": "AI",
+    "internationalCode": [1264],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "internationalCode": [null],
+    "greeting": ""
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "countryCode": "AG",
+    "internationalCode": [1268],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Argentina",
+    "countryCode": "AR",
+    "internationalCode": [54],
+    "greeting": "Hola"
+  },
+  {
+    "country": "Armenia",
+    "countryCode": "AM",
+    "internationalCode": [374],
+    "greeting": "Barev"
+  },
+  {
+    "country": "Aruba",
+    "countryCode": "AW",
+    "internationalCode": [297],
+    "greeting": "Bon bini"
+  },
+  {
+    "country": "Australia",
+    "countryCode": "AU",
+    "internationalCode": [61],
+    "greeting": "G'day"
+  },
+  {
+    "country": "Austria",
+    "countryCode": "AT",
+    "internationalCode": [43],
+    "greeting": "Hallo"
+  },
+  {
+    "country": "Azerbaijan",
+    "countryCode": "AZ",
+    "internationalCode": [994],
+    "greeting": "Salam"
+  },
+  {
+    "country": "Bahamas",
+    "countryCode": "BS",
+    "internationalCode": [1242],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Bahrain",
+    "countryCode": "BH",
+    "internationalCode": [973],
+    "greeting": "Marhaba"
+  },
+  {
+    "country": "Bangladesh",
+    "countryCode": "BD",
+    "internationalCode": [880],
+    "greeting": "Salaam"
+  },
+  {
+    "country": "Barbados",
+    "countryCode": "BB",
+    "internationalCode": [1246],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Belarus",
+    "countryCode": "BY",
+    "internationalCode": [375],
+    "greeting": "Zdravstvuyte"
+  },
+  {
+    "country": "Belgium",
+    "countryCode": "BE",
+    "internationalCode": [32],
+    "greeting": "Bonjour"
+  },
+  {
+    "country": "Belize",
+    "countryCode": "BZ",
+    "internationalCode": [501],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Benin",
+    "countryCode": "BJ",
+    "internationalCode": [229],
+    "greeting": "Bonjour"
+  },
+  {
+    "country": "Bermuda",
+    "countryCode": "BM",
+    "internationalCode": [1441],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Bhutan",
+    "countryCode": "BT",
+    "internationalCode": [975],
+    "greeting": "Kuzuzangpo"
+  },
+  {
+    "country": "Bolivia",
+    "countryCode": "BO",
+    "internationalCode": [591],
+    "greeting": "Hola"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "countryCode": "BA",
+    "internationalCode": [387],
+    "greeting": "Zdravo"
+  },
+  {
+    "country": "Botswana",
+    "countryCode": "BW",
+    "internationalCode": [267],
+    "greeting": "Dumela"
+  },
+  {
+    "country": "Bouvet Island",
+    "countryCode": "BV",
+    "internationalCode": [null],
+    "greeting": ""
+  },
+  {
+    "country": "Brazil",
+    "countryCode": "BR",
+    "internationalCode": [55],
+    "greeting": "Olá"
+  },
+  {
+    "country": "Brunei",
+    "countryCode": "BN",
+    "internationalCode": [673],
+    "greeting": "Selamat datang"
+  },
+  {
+    "country": "Bulgaria",
+    "countryCode": "BG",
+    "internationalCode": [359],
+    "greeting": "Zdraveyte"
+  },
+  {
+    "country": "Burkina Faso",
+    "countryCode": "BF",
+    "internationalCode": [226],
+    "greeting": "Bonjour"
+  },
+  {
+    "country": "Burundi",
+    "countryCode": "BI",
+    "internationalCode": [257],
+    "greeting": "Amahoro"
+  },
+  {
+    "country": "Cabo Verde",
+    "countryCode": "CV",
+    "internationalCode": [238],
+    "greeting": "Olá"
+  },
+  {
+    "country": "Cambodia",
+    "countryCode": "KH",
+    "internationalCode": [855],
+    "greeting": "Sua s'dei"
+  },
+  {
+    "country": "Cameroon",
+    "countryCode": "CM",
+    "internationalCode": [237],
+    "greeting": "Bonjour"
+  },
+  {
+    "country": "Canada",
+    "countryCode": "CA",
+    "internationalCode": [1],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Cayman Islands",
+    "countryCode": "KY",
+    "internationalCode": [1345],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Chad",
+    "countryCode": "TD",
+    "internationalCode": [235],
+    "greeting": "Marhaba"
+  },
+  {
+    "country": "Chile",
+    "countryCode": "CL",
+    "internationalCode": [56],
+    "greeting": "Hola"
+  },
+  {
+    "country": "China",
+    "countryCode": "CN",
+    "internationalCode": [86],
+    "greeting": "Nǐ hǎo"
+  },
+  {
+    "country": "Christmas Island",
+    "countryCode": "CX",
+    "internationalCode": [61],
+    "greeting": "Merry Christmas"
+  },
+  {
+    "country": "Cocos Islands",
+    "countryCode": "CC",
+    "internationalCode": [61],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Colombia",
+    "countryCode": "CO",
+    "internationalCode": [57],
+    "greeting": "Hola"
+  },
+  {
+    "country": "Comoros",
+    "countryCode": "KM",
+    "internationalCode": [269],
+    "greeting": "Marhaba"
+  },
+  {
+    "country": "Congo (Republic)",
+    "countryCode": "CG",
+    "internationalCode": [242],
+    "greeting": "Mbote"
+  },
+  {
+    "country": "Congo (Democratic Republic)",
+    "countryCode": "CD",
+    "internationalCode": [243],
+    "greeting": "Mbote"
+  },
+  {
+    "country": "Cook Islands",
+    "countryCode": "CK",
+    "internationalCode": [682],
+    "greeting": "Kia orana"
+  },
+  {
+    "country": "Costa Rica",
+    "countryCode": "CR",
+    "internationalCode": [506],
+    "greeting": "Hola"
+  },
+  {
+    "country": "Croatia",
+    "countryCode": "HR",
+    "internationalCode": [385],
+    "greeting": "Bok"
+  },
+  {
+    "country": "Cuba",
+    "countryCode": "CU",
+    "internationalCode": [53],
+    "greeting": "Hola"
+  },
+  {
+    "country": "Curaçao",
+    "countryCode": "CW",
+    "internationalCode": [599],
+    "greeting": "Bon biní"
+  },
+  {
+    "country": "Cyprus",
+    "countryCode": "CY",
+    "internationalCode": [357],
+    "greeting": "Yia sas"
+  },
+  {
+    "country": "Czechia",
+    "countryCode": "CZ",
+    "internationalCode": [420],
+    "greeting": "Ahoj"
+  },
+  {
+    "country": "Côte d'Ivoire",
+    "countryCode": "CI",
+    "internationalCode": [225],
+    "greeting": "Bonjour"
+  },
+  {
+    "country": "Denmark",
+    "countryCode": "DK",
+    "internationalCode": [45],
+    "greeting": "Hej"
+  },
+  {
+    "country": "Djibouti",
+    "countryCode": "DJ",
+    "internationalCode": [253],
+    "greeting": "Salaam"
+  },
+  {
+    "country": "Dominica",
+    "countryCode": "DM",
+    "internationalCode": [1767],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Dominican Republic",
+    "countryCode": "DO",
+    "internationalCode": [1809, 1829, 1849],
+    "greeting": "Hola"
+  },
+  {
+    "country": "Ecuador",
+    "countryCode": "EC",
+    "internationalCode": [593],
+    "greeting": "Hola"
+  },
+  {
+    "country": "Egypt",
+    "countryCode": "EG",
+    "internationalCode": [20],
+    "greeting": "As-salāmu ʿalaykum"
+  },
+  {
+    "country": "El Salvador",
+    "countryCode": "SV",
+    "internationalCode": [503],
+    "greeting": "Hola"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "countryCode": "GQ",
+    "internationalCode": [240],
+    "greeting": "Hola"
+  },
+  {
+    "country": "Eritrea",
+    "countryCode": "ER",
+    "internationalCode": [291],
+    "greeting": "Salaam"
+  },
+  {
+    "country": "Estonia",
+    "countryCode": "EE",
+    "internationalCode": [372],
+    "greeting": "Tere"
+  },
+  {
+    "country": "Eswatini",
+    "countryCode": "SZ",
+    "internationalCode": [268],
+    "greeting": "Sawubona"
+  },
+  {
+    "country": "Ethiopia",
+    "countryCode": "ET",
+    "internationalCode": [251],
+    "greeting": "Salam"
+  },
+  {
+    "country": "Faroe Islands",
+    "countryCode": "FO",
+    "internationalCode": [298],
+    "greeting": "Hallo"
+  },
+  {
+    "country": "Fiji",
+    "countryCode": "FJ",
+    "internationalCode": [679],
+    "greeting": "Bula"
+  },
+  {
+    "country": "Finland",
+    "countryCode": "FI",
+    "internationalCode": [358],
+    "greeting": "Hei"
+  },
+  {
+    "country": "France",
+    "countryCode": "FR",
+    "internationalCode": [33],
+    "greeting": "Bonjour"
+  },
+  {
+    "country": "Gabon",
+    "countryCode": "GA",
+    "internationalCode": [241],
+    "greeting": "Bonjour"
+  },
+  {
+    "country": "Gambia",
+    "countryCode": "GM",
+    "internationalCode": [220],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Georgia",
+    "countryCode": "GE",
+    "internationalCode": [995],
+    "greeting": "Gamarjoba"
+  },
+  {
+    "country": "Germany",
+    "countryCode": "DE",
+    "internationalCode": [49],
+    "greeting": "Hallo"
+  },
+  {
+    "country": "Ghana",
+    "countryCode": "GH",
+    "internationalCode": [233],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Gibraltar",
+    "countryCode": "GI",
+    "internationalCode": [350],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Greece",
+    "countryCode": "GR",
+    "internationalCode": [30],
+    "greeting": "Γειά σου"
+  },
+  {
+    "country": "Greenland",
+    "countryCode": "GL",
+    "internationalCode": [299],
+    "greeting": "Hallo"
+  },
+  {
+    "country": "Grenada",
+    "countryCode": "GD",
+    "internationalCode": [1473],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Guadeloupe",
+    "countryCode": "GP",
+    "internationalCode": [590],
+    "greeting": "Bonjour"
+  },
+  {
+    "country": "Guam",
+    "countryCode": "GU",
+    "internationalCode": [1671],
+    "greeting": "Håfa Adai"
+  },
+  {
+    "country": "Guatemala",
+    "countryCode": "GT",
+    "internationalCode": [502],
+    "greeting": "Hola"
+  },
+  {
+    "country": "Guernsey",
+    "countryCode": "GG",
+    "internationalCode": [441481],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Guinea",
+    "countryCode": "GN",
+    "internationalCode": [224],
+    "greeting": "Bonjour"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "countryCode": "GW",
+    "internationalCode": [245],
+    "greeting": "Olá"
+  },
+  {
+    "country": "Guyana",
+    "countryCode": "GY",
+    "internationalCode": [592],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Haiti",
+    "countryCode": "HT",
+    "internationalCode": [509],
+    "greeting": "Bonjour"
+  },
+  {
+    "country": "Holy See",
+    "countryCode": "VA",
+    "internationalCode": [379],
+    "greeting": "Salve"
+  },
+  {
+    "country": "Honduras",
+    "countryCode": "HN",
+    "internationalCode": [504],
+    "greeting": "Hola"
+  },
+  {
+    "country": "Hong Kong",
+    "countryCode": "HK",
+    "internationalCode": [852],
+    "greeting": "你好"
+  },
+  {
+    "country": "Hungary",
+    "countryCode": "HU",
+    "internationalCode": [36],
+    "greeting": "Szia"
+  },
+  {
+    "country": "Iceland",
+    "countryCode": "IS",
+    "internationalCode": [354],
+    "greeting": "Halló"
+  },
+  {
+    "country": "India",
+    "countryCode": "IN",
+    "internationalCode": [91],
+    "greeting": "Namaste"
+  },
+  {
+    "country": "Indonesia",
+    "countryCode": "ID",
+    "internationalCode": [62],
+    "greeting": "Selamat"
+  },
+  {
+    "country": "Iran",
+    "countryCode": "IR",
+    "internationalCode": [98],
+    "greeting": "Salam"
+  },
+  {
+    "country": "Iraq",
+    "countryCode": "IQ",
+    "internationalCode": [964],
+    "greeting": "As-salāmu ʿalaykum"
+  },
+  {
+    "country": "Ireland",
+    "countryCode": "IE",
+    "internationalCode": [353],
+    "greeting": "Dia dhuit"
+  },
+  {
+    "country": "Isle of Man",
+    "countryCode": "IM",
+    "internationalCode": [441624],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Israel",
+    "countryCode": "IL",
+    "internationalCode": [972],
+    "greeting": "Shalom"
+  },
+  {
+    "country": "Italy",
+    "countryCode": "IT",
+    "internationalCode": [39],
+    "greeting": "Ciao"
+  },
+  {
+    "country": "Jamaica",
+    "countryCode": "JM",
+    "internationalCode": [1876],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Japan",
+    "countryCode": "JP",
+    "internationalCode": [81],
+    "greeting": "こんにちは"
+  },
+  {
+    "country": "Jersey",
+    "countryCode": "JE",
+    "internationalCode": [441534],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Jordan",
+    "countryCode": "JO",
+    "internationalCode": [962],
+    "greeting": "Marhaba"
+  },
+  {
+    "country": "Kazakhstan",
+    "countryCode": "KZ",
+    "internationalCode": [7],
+    "greeting": "Сәлеметсіз бе"
+  },
+  {
+    "country": "Kenya",
+    "countryCode": "KE",
+    "internationalCode": [254],
+    "greeting": "Habari"
+  },
+  {
+    "country": "Kiribati",
+    "countryCode": "KI",
+    "internationalCode": [686],
+    "greeting": "Mauri"
+  },
+  {
+    "country": "Korea",
+    "countryCode": "KR",
+    "internationalCode": [82],
+    "greeting": "안녕하세요"
+  },
+  {
+    "country": "Kuwait",
+    "countryCode": "KW",
+    "internationalCode": [965],
+    "greeting": "Marhaba"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "countryCode": "KG",
+    "internationalCode": [996],
+    "greeting": "Салам"
+  },
+  {
+    "country": "Lao",
+    "countryCode": "LA",
+    "internationalCode": [856],
+    "greeting": "Sabaidee"
+  },
+  {
+    "country": "Latvia",
+    "countryCode": "LV",
+    "internationalCode": [371],
+    "greeting": "Sveiki"
+  },
+  {
+    "country": "Lebanon",
+    "countryCode": "LB",
+    "internationalCode": [961],
+    "greeting": "Marhaba"
+  },
+  {
+    "country": "Lesotho",
+    "countryCode": "LS",
+    "internationalCode": [266],
+    "greeting": "Lumela"
+  },
+  {
+    "country": "Liberia",
+    "countryCode": "LR",
+    "internationalCode": [231],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Libya",
+    "countryCode": "LY",
+    "internationalCode": [218],
+    "greeting": "As-salāmu ʿalaykum"
+  },
+  {
+    "country": "Liechtenstein",
+    "countryCode": "LI",
+    "internationalCode": [423],
+    "greeting": "Hallo"
+  },
+  {
+    "country": "Lithuania",
+    "countryCode": "LT",
+    "internationalCode": [370],
+    "greeting": "Sveiki"
+  },
+  {
+    "country": "Luxembourg",
+    "countryCode": "LU",
+    "internationalCode": [352],
+    "greeting": "Moien"
+  },
+  {
+    "country": "Macao",
+    "countryCode": "MO",
+    "internationalCode": [853],
+    "greeting": "你好"
+  },
+  {
+    "country": "Madagascar",
+    "countryCode": "MG",
+    "internationalCode": [261],
+    "greeting": "Manahoana"
+  },
+  {
+    "country": "Malawi",
+    "countryCode": "MW",
+    "internationalCode": [265],
+    "greeting": "Moni"
+  },
+  {
+    "country": "Malaysia",
+    "countryCode": "MY",
+    "internationalCode": [60],
+    "greeting": "Selamat"
+  },
+  {
+    "country": "Maldives",
+    "countryCode": "MV",
+    "internationalCode": [960],
+    "greeting": "Assalaam Alaikum"
+  },
+  {
+    "country": "Mali",
+    "countryCode": "ML",
+    "internationalCode": [223],
+    "greeting": "Bonjour"
+  },
+  {
+    "country": "Malta",
+    "countryCode": "MT",
+    "internationalCode": [356],
+    "greeting": "Bongu"
+  },
+  {
+    "country": "Marshall Islands",
+    "countryCode": "MH",
+    "internationalCode": [692],
+    "greeting": "Yokwe"
+  },
+  {
+    "country": "Martinique",
+    "countryCode": "MQ",
+    "internationalCode": [596],
+    "greeting": "Bonjour"
+  },
+  {
+    "country": "Mauritania",
+    "countryCode": "MR",
+    "internationalCode": [222],
+    "greeting": "Salam"
+  },
+  {
+    "country": "Mauritius",
+    "countryCode": "MU",
+    "internationalCode": [230],
+    "greeting": "Bonjour"
+  },
+  {
+    "country": "Mayotte",
+    "countryCode": "YT",
+    "internationalCode": [262],
+    "greeting": "Kwe"
+  },
+  {
+    "country": "Mexico",
+    "countryCode": "MX",
+    "internationalCode": [52],
+    "greeting": "Hola"
+  },
+  {
+    "country": "Micronesia",
+    "countryCode": "FM",
+    "internationalCode": [691],
+    "greeting": "Kaselehlia"
+  },
+  {
+    "country": "Moldova",
+    "countryCode": "MD",
+    "internationalCode": [373],
+    "greeting": "Bună ziua"
+  },
+  {
+    "country": "Monaco",
+    "countryCode": "MC",
+    "internationalCode": [377],
+    "greeting": "Bonjour"
+  },
+  {
+    "country": "Mongolia",
+    "countryCode": "MN",
+    "internationalCode": [976],
+    "greeting": "Sain baina uu"
+  },
+  {
+    "country": "Montenegro",
+    "countryCode": "ME",
+    "internationalCode": [382],
+    "greeting": "Zdravo"
+  },
+  {
+    "country": "Montserrat",
+    "countryCode": "MS",
+    "internationalCode": [1664],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Morocco",
+    "countryCode": "MA",
+    "internationalCode": [212],
+    "greeting": "Salam"
+  },
+  {
+    "country": "Mozambique",
+    "countryCode": "MZ",
+    "internationalCode": [258],
+    "greeting": "Olá"
+  },
+  {
+    "country": "Myanmar",
+    "countryCode": "MM",
+    "internationalCode": [95],
+    "greeting": "Mingalaba"
+  },
+  {
+    "country": "Namibia",
+    "countryCode": "NA",
+    "internationalCode": [264],
+    "greeting": "Hallo"
+  },
+  {
+    "country": "Nauru",
+    "countryCode": "NR",
+    "internationalCode": [674],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Nepal",
+    "countryCode": "NP",
+    "internationalCode": [977],
+    "greeting": "Namaste"
+  },
+  {
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "internationalCode": [31],
+    "greeting": "Hallo"
+  },
+  {
+    "country": "New Caledonia",
+    "countryCode": "NC",
+    "internationalCode": [687],
+    "greeting": "Bonjour"
+  },
+  {
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "internationalCode": [64],
+    "greeting": "Kia ora"
+  },
+  {
+    "country": "Nicaragua",
+    "countryCode": "NI",
+    "internationalCode": [505],
+    "greeting": "Hola"
+  },
+  {
+    "country": "Niger",
+    "countryCode": "NE",
+    "internationalCode": [227],
+    "greeting": "Bonjour"
+  },
+  {
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "internationalCode": [234],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Norway",
+    "countryCode": "NO",
+    "internationalCode": [47],
+    "greeting": "Hei"
+  },
+  {
+    "country": "Oman",
+    "countryCode": "OM",
+    "internationalCode": [968],
+    "greeting": "As-salāmu ʿalaykum"
+  },
+  {
+    "country": "Pakistan",
+    "countryCode": "PK",
+    "internationalCode": [92],
+    "greeting": "Asalamualekum"
+  },
+  {
+    "country": "Palau",
+    "countryCode": "PW",
+    "internationalCode": [680],
+    "greeting": "Alii"
+  },
+  {
+    "country": "Palestine",
+    "countryCode": "PS",
+    "internationalCode": [970],
+    "greeting": "Marhaba"
+  },
+  {
+    "country": "Panama",
+    "countryCode": "PA",
+    "internationalCode": [507],
+    "greeting": "Hola"
+  },
+  {
+    "country": "Papua New Guinea",
+    "countryCode": "PG",
+    "internationalCode": [675],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Paraguay",
+    "countryCode": "PY",
+    "internationalCode": [595],
+    "greeting": "Hola"
+  },
+  {
+    "country": "Peru",
+    "countryCode": "PE",
+    "internationalCode": [51],
+    "greeting": "Hola"
+  },
+  {
+    "country": "Philippines",
+    "countryCode": "PH",
+    "internationalCode": [63],
+    "greeting": "Kumusta"
+  },
+  {
+    "country": "Pitcairn",
+    "countryCode": "PN",
+    "internationalCode": [870],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Poland",
+    "countryCode": "PL",
+    "internationalCode": [48],
+    "greeting": "Cześć"
+  },
+  {
+    "country": "Portugal",
+    "countryCode": "PT",
+    "internationalCode": [351],
+    "greeting": "Olá"
+  },
+  {
+    "country": "Puerto Rico",
+    "countryCode": "PR",
+    "internationalCode": [17871939],
+    "greeting": "Hola"
+  },
+  {
+    "country": "Qatar",
+    "countryCode": "QA",
+    "internationalCode": [974],
+    "greeting": "As-salāmu ʿalaykum"
+  },
+  {
+    "country": "North Macedonia",
+    "countryCode": "MK",
+    "internationalCode": [389],
+    "greeting": "Zdravo"
+  },
+  {
+    "country": "Romania",
+    "countryCode": "RO",
+    "internationalCode": [40],
+    "greeting": "Bună ziua"
+  },
+  {
+    "country": "Russian Federation",
+    "countryCode": "RU",
+    "internationalCode": [7],
+    "greeting": "Zdravstvuyte"
+  },
+  {
+    "country": "Rwanda",
+    "countryCode": "RW",
+    "internationalCode": [250],
+    "greeting": "Muraho"
+  },
+  {
+    "country": "Réunion",
+    "countryCode": "RE",
+    "internationalCode": [262],
+    "greeting": "Bonjour"
+  },
+  {
+    "country": "Saint Lucia",
+    "countryCode": "LC",
+    "internationalCode": [1758],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Saint Martin",
+    "countryCode": "MF",
+    "internationalCode": [590],
+    "greeting": "Bonjour"
+  },
+  {
+    "country": "Saint Vincent",
+    "countryCode": "VC",
+    "internationalCode": [1784],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Samoa",
+    "countryCode": "WS",
+    "internationalCode": [685],
+    "greeting": "Talofa"
+  },
+  {
+    "country": "San Marino",
+    "countryCode": "SM",
+    "internationalCode": [378],
+    "greeting": "Ciao"
+  },
+  {
+    "country": "Saudi Arabia",
+    "countryCode": "SA",
+    "internationalCode": [966],
+    "greeting": "As-salāmu ʿalaykum"
+  },
+  {
+    "country": "Senegal",
+    "countryCode": "SN",
+    "internationalCode": [221],
+    "greeting": "Bonjour"
+  },
+  {
+    "country": "Serbia",
+    "countryCode": "RS",
+    "internationalCode": [381],
+    "greeting": "Zdravo"
+  },
+  {
+    "country": "Seychelles",
+    "countryCode": "SC",
+    "internationalCode": [248],
+    "greeting": "Bonjour"
+  },
+  {
+    "country": "Sierra Leone",
+    "countryCode": "SL",
+    "internationalCode": [232],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Singapore",
+    "countryCode": "SG",
+    "internationalCode": [65],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Sint Maarten",
+    "countryCode": "SX",
+    "internationalCode": [1721],
+    "greeting": "Hallo"
+  },
+  {
+    "country": "Slovakia",
+    "countryCode": "SK",
+    "internationalCode": [421],
+    "greeting": "Ahoj"
+  },
+  {
+    "country": "Slovenia",
+    "countryCode": "SI",
+    "internationalCode": [386],
+    "greeting": "Zdravo"
+  },
+  {
+    "country": "Solomon Islands",
+    "countryCode": "SB",
+    "internationalCode": [677],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Somalia",
+    "countryCode": "SO",
+    "internationalCode": [252],
+    "greeting": "As-salāmu ʿalaykum"
+  },
+  {
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "internationalCode": [27],
+    "greeting": "Hello"
+  },
+  {
+    "country": "South Sudan",
+    "countryCode": "SS",
+    "internationalCode": [211],
+    "greeting": "Salaam"
+  },
+  {
+    "country": "Spain",
+    "countryCode": "ES",
+    "internationalCode": [34],
+    "greeting": "Hola"
+  },
+  {
+    "country": "Sri Lanka",
+    "countryCode": "LK",
+    "internationalCode": [94],
+    "greeting": "Ayubowan"
+  },
+  {
+    "country": "Sudan",
+    "countryCode": "SD",
+    "internationalCode": [249],
+    "greeting": "As-salāmu ʿalaykum"
+  },
+  {
+    "country": "Suriname",
+    "countryCode": "SR",
+    "internationalCode": [597],
+    "greeting": "Hallo"
+  },
+  {
+    "country": "Sweden",
+    "countryCode": "SE",
+    "internationalCode": [46],
+    "greeting": "Hej"
+  },
+  {
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "internationalCode": [41],
+    "greeting": "Grüezi"
+  },
+  {
+    "country": "Syria",
+    "countryCode": "SY",
+    "internationalCode": [963],
+    "greeting": "As-salāmu ʿalaykum"
+  },
+  {
+    "country": "Taiwan",
+    "countryCode": "TW",
+    "internationalCode": [886],
+    "greeting": "你好"
+  },
+  {
+    "country": "Tajikistan",
+    "countryCode": "TJ",
+    "internationalCode": [992],
+    "greeting": "Salom"
+  },
+  {
+    "country": "Tanzania",
+    "countryCode": "TZ",
+    "internationalCode": [255],
+    "greeting": "Habari"
+  },
+  {
+    "country": "Thailand",
+    "countryCode": "TH",
+    "internationalCode": [66],
+    "greeting": "สวัสดี"
+  },
+  {
+    "country": "Timor-Leste",
+    "countryCode": "TL",
+    "internationalCode": [670],
+    "greeting": "Olá"
+  },
+  {
+    "country": "Togo",
+    "countryCode": "TG",
+    "internationalCode": [228],
+    "greeting": "Bonjour"
+  },
+  {
+    "country": "Tokelau",
+    "countryCode": "TK",
+    "internationalCode": [690],
+    "greeting": "Taloha"
+  },
+  {
+    "country": "Tonga",
+    "countryCode": "TO",
+    "internationalCode": [676],
+    "greeting": "Mālō e lelei"
+  },
+  {
+    "country": "Tunisia",
+    "countryCode": "TN",
+    "internationalCode": [216],
+    "greeting": "As-salāmu ʿalaykum"
+  },
+  {
+    "country": "Turkey",
+    "countryCode": "TR",
+    "internationalCode": [90],
+    "greeting": "Merhaba"
+  },
+  {
+    "country": "Turkmenistan",
+    "countryCode": "TM",
+    "internationalCode": [993],
+    "greeting": "Salam"
+  },
+  {
+    "country": "Tuvalu",
+    "countryCode": "TV",
+    "internationalCode": [688],
+    "greeting": "Talofa"
+  },
+  {
+    "country": "Uganda",
+    "countryCode": "UG",
+    "internationalCode": [256],
+    "greeting": "Habari"
+  },
+  {
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "internationalCode": [380],
+    "greeting": "Привіт"
+  },
+  {
+    "country": "United Arab Emirates",
+    "countryCode": "AE",
+    "internationalCode": [971],
+    "greeting": "As-salāmu ʿalaykum"
+  },
+  {
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "internationalCode": [44],
+    "greeting": "Hello"
+  },
+  {
+    "country": "USA",
+    "countryCode": "US",
+    "internationalCode": [1],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Uruguay",
+    "countryCode": "UY",
+    "internationalCode": [598],
+    "greeting": "Hola"
+  },
+  {
+    "country": "Uzbekistan",
+    "countryCode": "UZ",
+    "internationalCode": [998],
+    "greeting": "Salom"
+  },
+  {
+    "country": "Vanuatu",
+    "countryCode": "VU",
+    "internationalCode": [678],
+    "greeting": "Halo"
+  },
+  {
+    "country": "Venezuela",
+    "countryCode": "VE",
+    "internationalCode": [58],
+    "greeting": "Hola"
+  },
+  {
+    "country": "Viet Nam",
+    "countryCode": "VN",
+    "internationalCode": [84],
+    "greeting": "Xin chào"
+  },
+  {
+    "country": "Virgin Islands",
+    "countryCode": "VI",
+    "internationalCode": [1340],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Wallis and Futuna",
+    "countryCode": "WF",
+    "internationalCode": [681],
+    "greeting": "Malo le kataki"
+  },
+  {
+    "country": "Western Sahara",
+    "countryCode": "EH",
+    "internationalCode": [null],
+    "greeting": "Salam"
+  },
+  {
+    "country": "Yemen",
+    "countryCode": "YE",
+    "internationalCode": [967],
+    "greeting": "As-salāmu ʿalaykum"
+  },
+  {
+    "country": "Zambia",
+    "countryCode": "ZM",
+    "internationalCode": [260],
+    "greeting": "Hello"
+  },
+  {
+    "country": "Zimbabwe",
+    "countryCode": "ZW",
+    "internationalCode": [263],
+    "greeting": "Sawubona"
+  },
+  {
+    "country": "Åland Islands",
+    "countryCode": "AX",
+    "internationalCode": [null],
+    "greeting": "Hej"
+  }
+]

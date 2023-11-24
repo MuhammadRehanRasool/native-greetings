@@ -1,0 +1,38 @@
+{
+  "name": "native-greetings",
+  "version": "1.0.1",
+  "description": "Embrace global connections with native-greetings! Discover diverse country greetings in one place.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Greetings",
+    "Countries",
+    "International",
+    "Cultural",
+    "Salutations",
+    "Multicultural",
+    "Communication",
+    "Global",
+    "Etiquette",
+    "Language",
+    "Culture",
+    "Country",
+    "Codes",
+    "Social",
+    "Interactions",
+    "Diversity",
+    "Cross-Cultural",
+    "Worldwide",
+    "Hello",
+    "Multilingual",
+    "Connection",
+    "Traditions",
+    "Globalization",
+    "Greetings Collection",
+    "Country-Specific Greetings"
+  ],
+  "author": "Rehan Sathio",
+  "license": "ISC"
+}
